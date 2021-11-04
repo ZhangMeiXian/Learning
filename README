@@ -1,1 +1,5 @@
 This is a repository for learning.
+
+model.py -- the architecture of current model
+train.py -- the process of training
+predict.py -- the process of validating

@@ -1,2 +1,8 @@
 Test1_LeNet/data
 .idea
+data_set/flower_data/
+.DS_Store
+Test2_AlexNet/__pycache__/
+__pycache__
+Test1_LeNet/__pycache__/
+
